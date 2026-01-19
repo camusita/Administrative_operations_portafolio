@@ -35,7 +35,7 @@ I have supported operational, administrative, and project-related activities acr
 - Advanced Excel (tracking, reporting, analysis)
 - MS Office (Word, PowerPoint, Outlook)
 - Jira (project and task tracking)
-- Basic data analysis
+- Data analysis
 - Process documentation
 - Fluent English
 
