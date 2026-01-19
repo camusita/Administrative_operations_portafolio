@@ -1,37 +1,54 @@
-# Portafolio MERL - Camila Vargas
+# Administrative & Operations Support Portfolio
 
-Este respositorio projectos que he ido gestionando a lo largo de estos años. 
-El objetivo es demostrar habilidades en gestión de datos, construcción de indicadores, análisis básico, elaboración de reportes y documentación. 
+## About Me
+Administrative and Operations Support professional with experience in project coordination, budgeting support, record management, and cross-functional collaboration in regulated and international environments. Economist with strong analytical skills, advanced Excel knowledge, and experience handling confidential information.
+
+I have supported operational, administrative, and project-related activities across different sectors, working closely with management teams, consultants, and internal stakeholders to ensure efficiency, organization, and compliance with internal processes.
+
 ---
-## Contenido del Portafolio 📁
-### 01-Data
-- Datos Raw
-- Datos Cleaned
-### 02- Indicadores
--Matriz de indicadores
--Marco Lógico 
-### 03-Analisis
-- Análisis (estadística descriptiba)
-- Hallazgos explicados
-### 04-Resports
-- Reporte MERL
-- Power Bi
-### 05-Aprendizaje
-- Lecciónes aprendidas
-- Acciones de mejora
+
+## Areas of Experience
+
+### Administrative & Operations Support
+- Day-to-day administrative and operational support to internal teams.
+- Coordination of activities with different areas such as management, human resources, and operational teams.
+- Organization and documentation of internal processes.
+
+### Budgeting & Accounting Support
+- Support in budgeting and cost analysis processes.
+- Preparation and organization of financial records and reports.
+- Assistance in tracking expenses and supporting accounting procedures.
+
+### Records & Data Management
+- Creation, maintenance, and updating of records and databases.
+- Handling of personnel, financial, and operational information with confidentiality.
+- Preparation of reports and structured documentation for internal use.
+
+### Project & Process Coordination
+- Project tracking and follow-up using tools such as Excel and Jira.
+- Documentation of workflows, timelines, and task assignments.
+- Support in process improvement initiatives and internal coordination.
+
 ---
-## Habilidades dmostradas 🧩
-- Organización y sistematización de información
-- Construcción y seguimiento de indicadores
-- Análisis
-- Elaboración de resportes ejecutivos
-- Documentación de lecciónes aprendidas
+
+## Tools & Skills
+- Advanced Excel (tracking, reporting, analysis)
+- MS Office (Word, PowerPoint, Outlook)
+- Jira (project and task tracking)
+- Basic data analysis
+- Process documentation
+- Fluent English
+
 ---
-## Herramientas utilizadas
-- Excel
-- Googles forms, Kobo
-- Marckdown / Github para documentación
-- Microsoft 360° (Sharepoints)
-- Jira, asana
-- SQL
+
+## Professional Background
+Experience supporting projects and operations in financial institutions, technology-related environments, and regulated organizations. Familiar with working in international and multi-stakeholder contexts, following internal policies and compliance requirements.
+
+---
+
+## Purpose of This Portfolio
+This portfolio showcases my experience and approach to administrative and operations support roles. The examples and documentation included here are illustrative and use non-confidential or simulated data.
+
+For more information, please feel free to connect with me on LinkedIn.
+
   
